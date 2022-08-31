@@ -6,4 +6,5 @@ This is a preliminary portfolio for my coding and design work.
 i will address the padding with video.. which looks poorly anyway..
 and center alignment for socials at bottom.
 additionally looking into embeding gitpages into modals of portfolio via iframe. 
-unsure when grading will commense, as cutoff for submission is a few hours away. nit trying to ruin live functional version, but am working to add mentioned functionalluty/display mechanisms locally.
+unsure when grading will commense, as cutoff for submission is a few hours away. not trying to ruin live functional version, but am working to add mentioned functionalluty/display mechanisms locally.
+will commit new functionality/styling.
