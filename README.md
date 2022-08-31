@@ -1,5 +1,5 @@
 # noahgreer.
-!side note, i used a scroller/on page, so projects/potfolios is its own section, rather than page, am working on embed feature to modals to usurp secondary page and, therefor css file for pages. wish me luck. see below.!
+!side note, i used a scroller/one page format, so projects/potfolios is its own section, rather than page, am working on embed feature to modals to usurp secondary page and, therefor css file for pages. wish me luck. see below.!
 
 this started as a start with bootstrap : freelancer framework.
 This is a preliminary portfolio for my coding and design work.
